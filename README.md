@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Calculator project developed following the Udemy course 'Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!' by Leonardo Moura Leitao to further learn the React framework.
 
 ## Available Scripts
 
